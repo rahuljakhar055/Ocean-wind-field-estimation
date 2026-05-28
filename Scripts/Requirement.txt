@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+earthengine-api
+geemap
+numpy
+pandas
+matplotlib
+folium
+geopandas
+rasterio
+xarray
+netCDF4
